@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm ci",
+  "startCommand": "node server.js",
+  "port": 3001,
+  "healthCheckPath": "/api/health"
+}
